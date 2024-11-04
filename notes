@@ -1,0 +1,9 @@
+react is the main library it can be used for both 
+building apps(react native) and web(react dom)
+npm install chesi vadukochu
+or if you dont want to download you can use
+npx(node package executer)
+
+scripts use cheskuni html lo js run aypoyiddi without using the script tag
+
+components create chestunappud functions create chestunappudu make sure that the first letter is capital
